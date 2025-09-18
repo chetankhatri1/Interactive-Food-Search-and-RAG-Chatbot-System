@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/chetan/Library/Mobile Documents/com~apple~CloudDocs/CK Learning/IBM RAG and Agentic AI Professional Certificate/Interactive Food Search and RAG Chatbot System/interactive_search.py", line 1, in <module>
+    from shared_functions import *
+  File "/Users/chetan/Library/Mobile Documents/com~apple~CloudDocs/CK Learning/IBM RAG and Agentic AI Professional Certificate/Interactive Food Search and RAG Chatbot System/shared_functions.py", line 1, in <module>
+    import chromadb
+ModuleNotFoundError: No module named 'chromadb'
